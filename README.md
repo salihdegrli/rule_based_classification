@@ -17,8 +17,7 @@ barındırmaktadır.
 Veri seti her satış işleminde oluşan kayıtlardan meydana gelmektedir.
 
 ## Değişkenler
-### PRICE – Müşterinin harcama tutarı
-### SOURCE – Müşterinin bağlandığı cihaz türü
-### SEX – Müşterinin cinsiyeti
-### COUNTRY – Müşterinin ülkesi
-### AGE – Müşterinin yaşı
+  PRICE – Müşterinin harcama tutarı
+  SOURCE – Müşterinin bağlandığı cihaz türü
+  COUNTRY – Müşterinin ülkesi
+  AGE – Müşterinin yaşı
